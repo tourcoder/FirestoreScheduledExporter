@@ -1,0 +1,22 @@
+{
+  "name": "FirestoreScheduledExporter",
+  "version": "1.0.0",
+  "description": "Schedule data exports from Firebase's Cloud Firestore",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "backup",
+    "firestore",
+    "schedule",
+    "exporter"
+  ],
+  "author": "Bin Hua",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase": "^10.8.0",
+    "firebase-admin": "^12.0.0"
+  }
+}
